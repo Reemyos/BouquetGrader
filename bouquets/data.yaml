@@ -1,0 +1,5 @@
+val: ../val
+train: ../train
+
+nc: 5
+names: ['Pink', 'White', 'Red', 'Orange', 'Yellow']
